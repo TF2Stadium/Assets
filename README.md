@@ -4,11 +4,21 @@ Various static assets files for the TF2Stadium website.
 
 ## License
 
-All assets in this repository, unless noted in the below list, are
-released under the GPLv3 License (GPL-3.0).
+This repository contains assets developed and released by other,
+unrelated organizations; along with assets developed by TF2Stadium
+team members and former team members. Because of the variety of works
+hosted in this repository, they are available under many licenses. The
+two licenses used by TF2Stadium-created assets are the GNU General
+Public License v3.0 (GPL-3.0, available in gpl-3.0.txt) and the
+Creative Commons Attribution Share Alike 4.0 license (CC-BY-SA-4.0,
+available in cc-by-sa-4.0.txt).
 
-This repository contains resources developed and released by other,
-unrelated organizations. These are:
+Because not all of the file formats in this repository allow for
+authorship and licensing metadata to be embedded, or for formats that
+do, for that metadata to be easily browsed without special tools, a
+complete list of the for authorship and licensing of files in this
+repository is maintained in this README.md file, with 3rd-party
+content listed at the top:
 
 * **fonts/FiraSansLight.otf**: Digitized data copyright (c) 2012-2015,
   The Mozilla Foundation and Telefonica S.A. Licensed under the SIL
@@ -35,6 +45,9 @@ unrelated organizations. These are:
   (https://github.com/google/material-design-icons/ ), released under
   the Creative Commons Attribution 4.0 International (CC-BY-4.0)
 
+* **img/emotes/kevin.png** and **img/emotes/kevinross.png**: Developed
+  by team members and released under the GPL-3.0
+
 ## Contributing
 
 Before contributing, please read the Developer Certification of Origin
@@ -45,3 +58,6 @@ submit it under the same license, or a compatible license.
 
 Any contribution which contains commits that are not Signed-Off will
 not be accepted.
+
+<!--  LocalWords:  metadata
+ -->
