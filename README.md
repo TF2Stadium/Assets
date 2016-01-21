@@ -23,6 +23,9 @@ unrelated organizations. These are:
   http://jamiewilson.io/norwester/ under the SIL Open Font License
   (see above link).
 
+* **img/emotes/emojione/*.png**: EmojiOne icons by Ranks.com; released
+  under Creative Commons Attribution 4.0 International
+
 ## Contributing
 
 Before contributing, please read the Developer Certification of Origin
