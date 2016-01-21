@@ -48,6 +48,9 @@ content listed at the top:
 * **img/emotes/kevin.png** and **img/emotes/kevinross.png**: Developed
   by team members and released under the GPL-3.0
 
+* **emojione.json**: Emoji config file created by a Frontend utility
+  script, released under the GPL-3.0
+
 ## Contributing
 
 Before contributing, please read the Developer Certification of Origin
