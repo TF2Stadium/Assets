@@ -36,14 +36,11 @@ content listed at the top:
 * **img/emotes/emojione/*.png**: EmojiOne icons by Ranks.com; released
   under Creative Commons Attribution 4.0 International
 
-* **img/icon-lock-closed.svg**: From Google's Material Design Icons
+* **img/icons/material/*.svg**: From Google's Material Design Icons
   (https://github.com/google/material-design-icons/ ), released under
-  the Creative Commons Attribution 4.0 International (CC-BY-4.0)
-
-* **img/icon-lock-closed-white.svg**: Modified icon from Google's
-  Material Design Icons
-  (https://github.com/google/material-design-icons/ ), released under
-  the Creative Commons Attribution 4.0 International (CC-BY-4.0)
+  the Creative Commons Attribution 4.0 International (CC-BY-4.0). Some
+  of them a `-<color>` suffix contain slight modifications by
+  TF2Stadium team members to change the color of the icon.
 
 * **img/emotes/kevin.png** and **img/emotes/kevinross.png**: Developed
   by team members and released under the GPL-3.0
