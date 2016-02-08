@@ -48,6 +48,11 @@ content listed at the top:
   of them a `-<color>` suffix contain slight modifications by
   TF2Stadium team members to change the color of the icon.
 
+* **img/{,not-}mumble.svg**: From the
+  [Mumble](https://github.com/mumble-voip/mumble) project, vectorized
+  with slight modifications by TF2Stadium team member lyreix. See
+  `mumble-license.txt`
+
 * **img/steam-login-small.png**: Login button for Steam, retrieved
   from: https://steamcommunity.com/dev/ which requests the use of
   their images when starting a Steam OpenID sign in.
