@@ -48,6 +48,7 @@ content listed at the top:
   of them a `-<color>` suffix contain slight modifications by
   TF2Stadium team members to change the color of the icon.
 
+* **sounds/lobby-{start,readyup}.wav**: From TF2
 
 <!--  LocalWords:  metadata
  -->
