@@ -7,11 +7,11 @@ Various static assets files for the TF2Stadium website.
 This repository contains assets developed and released by other,
 unrelated organizations; along with assets developed by TF2Stadium
 team members and former team members. Because of the variety of works
-hosted in this repository, they are available under many licenses. The
-two licenses used by TF2Stadium-created assets are the GNU General
-Public License v3.0 (GPL-3.0, available in gpl-3.0.txt) and the
-Creative Commons Attribution Share Alike 4.0 license (CC-BY-SA-4.0,
-available in cc-by-sa-4.0.txt).
+hosted in this repository, they are available under many licenses or
+permissions. The two licenses used by TF2Stadium-created assets are
+the GNU General Public License v3.0 (GPL-3.0, available in
+gpl-3.0.txt) and the Creative Commons Attribution Share Alike 4.0
+license (CC-BY-SA-4.0, available in cc-by-sa-4.0.txt).
 
 Because not all of the file formats in this repository allow for
 authorship and licensing metadata to be embedded, or for formats that
@@ -48,16 +48,6 @@ content listed at the top:
   of them a `-<color>` suffix contain slight modifications by
   TF2Stadium team members to change the color of the icon.
 
-## Contributing
-
-Before contributing, please read the Developer Certification of Origin
-in DCO.txt and certify that you agree to it by signing off all commits
-with `git commit --signoff` or just `git commit -s`. This certifies
-that the contribution is your original work, or you have rights to
-submit it under the same license, or a compatible license.
-
-Any contribution which contains commits that are not Signed-Off will
-not be accepted.
 
 <!--  LocalWords:  metadata
  -->
