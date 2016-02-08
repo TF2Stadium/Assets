@@ -48,6 +48,10 @@ content listed at the top:
   of them a `-<color>` suffix contain slight modifications by
   TF2Stadium team members to change the color of the icon.
 
+* **img/steam-login-small.png**: Login button for Steam, retrieved
+  from: https://steamcommunity.com/dev/ which requests the use of
+  their images when starting a Steam OpenID sign in.
+
 * **sounds/lobby-{start,readyup}.wav**: From TF2
 
 <!--  LocalWords:  metadata
