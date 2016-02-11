@@ -48,6 +48,9 @@ content listed at the top:
   of them a `-<color>` suffix contain slight modifications by
   TF2Stadium team members to change the color of the icon.
 
+* **img/icons/class/*.svg**: TF2-inspired class icons, contributed by
+  TF2Stadium team member lyreix.
+
 * **img/{,not-}mumble.svg**: From the
   [Mumble](https://github.com/mumble-voip/mumble) project, vectorized
   with slight modifications by TF2Stadium team member lyreix. See
