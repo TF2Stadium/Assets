@@ -68,6 +68,10 @@ content listed at the top:
   with slight modifications by TF2Stadium team member lyreix. See
   `mumble-license.txt`
 
+* **img/{favicon.ico,logo-*.svg}**: Contributed by TF2Stadium team
+  members retro (design) and lyreix (vectorization/coloring) under
+  CC-BY-NC-SA-4.0.
+
 * **img/steam-login-small.png**: Login button for Steam, retrieved
   from: https://steamcommunity.com/dev/ which requests the use of
   their images when starting a Steam OpenID sign in.
