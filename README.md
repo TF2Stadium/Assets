@@ -51,6 +51,9 @@ content listed at the top:
 * **img/icons/class/*.svg**: TF2-inspired class icons, contributed by
   TF2Stadium team member lyreix.
 
+* **img/badges/{contributor,moderator}.svg**: Contributed by
+  TF2Stadium team member retro under CC-BY-SA-4.0.
+
 * **img/{,not-}mumble.svg**: From the
   [Mumble](https://github.com/mumble-voip/mumble) project, vectorized
   with slight modifications by TF2Stadium team member lyreix. See
