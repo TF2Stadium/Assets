@@ -10,8 +10,14 @@ team members and former team members. Because of the variety of works
 hosted in this repository, they are available under many licenses or
 permissions. The two licenses used by TF2Stadium-created assets are
 the GNU General Public License v3.0 (GPL-3.0, available in
-gpl-3.0.txt) and the Creative Commons Attribution Share Alike 4.0
-license (CC-BY-SA-4.0, available in cc-by-sa-4.0.txt).
+gpl-3.0.txt) and the Creative Commons Attribution Non-Commercial Share Alike 4.0
+license (CC-BY-NC-SA-4.0, available in cc-by-sa-4.0.txt).
+
+Many assets are TF2/Valve derivative works; for example, some are made
+in Source Filmmaker (SFM) using TF2/Valve-owned assets. On their
+official FAQ, Valve lists that these assets are allowed to be used as
+long as we remain totally non-commercial:
+http://www.sourcefilmmaker.com/faq/
 
 Because not all of the file formats in this repository allow for
 authorship and licensing metadata to be embedded, or for formats that
@@ -49,10 +55,13 @@ content listed at the top:
   TF2Stadium team members to change the color of the icon.
 
 * **img/icons/class/*.svg**: TF2-inspired class icons, contributed by
-  TF2Stadium team member lyreix.
+  TF2Stadium team member lyreix under CC-BY-NC-SA-4.0.
+
+* **img/formats/*.jpg**: Contributed by TF2Stadium team member lyreix
+  under CC-BY-NC-SA-4.0.
 
 * **img/badges/{contributor,moderator}.svg**: Contributed by
-  TF2Stadium team member retro under CC-BY-SA-4.0.
+  TF2Stadium team member retro under CC-BY-NC-SA-4.0.
 
 * **img/{,not-}mumble.svg**: From the
   [Mumble](https://github.com/mumble-voip/mumble) project, vectorized
