@@ -68,7 +68,7 @@ content listed at the top:
   with slight modifications by TF2Stadium team member lyreix. See
   `mumble-license.txt`
 
-* **img/{favicon.ico,logo-*.svg}**: Contributed by TF2Stadium team
+* **img/{favicon.ico,logo-*.{svg,png}}**: Contributed by TF2Stadium team
   members retro (design) and lyreix (vectorization/coloring) under
   CC-BY-NC-SA-4.0.
 
