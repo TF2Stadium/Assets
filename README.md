@@ -72,6 +72,9 @@ content listed at the top:
   members retro (design) and lyreix (vectorization/coloring) under
   CC-BY-NC-SA-4.0.
 
+* **img/maps/*/*.jpg**: Map screenshots, contributed by TF2Stadium
+  team member kevinispwn under CC-BY-NC-SA-4.0.
+
 * **img/steam-login-small.png**: Login button for Steam, retrieved
   from: https://steamcommunity.com/dev/ which requests the use of
   their images when starting a Steam OpenID sign in.
