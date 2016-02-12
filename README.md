@@ -72,8 +72,12 @@ content listed at the top:
   members retro (design) and lyreix (vectorization/coloring) under
   CC-BY-NC-SA-4.0.
 
-* **img/maps/*/*.jpg**: Map screenshots, contributed by TF2Stadium
+* **img/maps/*/*.jpg**: TF2 Map screenshots, contributed by TF2Stadium
   team member kevinispwn under CC-BY-NC-SA-4.0.
+
+* **img/header-bg.jpg**: Header background, a TF2 map
+  screenshot. Contributed by TF2Stadium team member kevinispwn under
+  CC-BY-NC-SA-4.0.
 
 * **img/steam-login-small.png**: Login button for Steam, retrieved
   from: https://steamcommunity.com/dev/ which requests the use of
