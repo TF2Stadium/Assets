@@ -63,6 +63,9 @@ content listed at the top:
 * **img/badges/{contributor,moderator}.svg**: Contributed by
   TF2Stadium team member retro under CC-BY-NC-SA-4.0.
 
+* **img/badges/administrator.{svg,png}**: PNG contributed by devamar
+  under CC-BY-NC-SA-4.0. Vectorized by TF2Stadium team member lyreix.
+
 * **img/{,not-}mumble.svg**: From the
   [Mumble](https://github.com/mumble-voip/mumble) project, vectorized
   with slight modifications by TF2Stadium team member lyreix. See
