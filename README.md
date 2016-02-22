@@ -95,6 +95,9 @@ content listed at the top:
   [Twitch JS SDK README](https://github.com/justintv/twitch-js-sdk/blob/61ce1b94c213c43cc29f315dba64ee358a8050fe/README.md#assets)
   and their brand assets page: http://www.twitch.tv/p/brandassets
 
+* **img/steam*.svg**: Steam logos, vectorized by TF2Stadium team
+  member lyreix.
+
 * **sounds/lobby-{start,readyup}.wav**: From TF2
 
 <!--  LocalWords:  metadata
