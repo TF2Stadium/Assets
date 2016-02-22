@@ -90,13 +90,16 @@ content listed at the top:
   from: https://steamcommunity.com/dev/ which requests the use of
   their images when starting a Steam OpenID sign in.
 
-* **img/logo/twitch\*** and **img/twitch-login.png**: Twitch assets,
+* **img/logos/twitch\*** and **img/twitch-login.png**: Twitch assets,
   permission for use is explained in the
   [Twitch JS SDK README](https://github.com/justintv/twitch-js-sdk/blob/61ce1b94c213c43cc29f315dba64ee358a8050fe/README.md#assets)
   and their brand assets page: http://www.twitch.tv/p/brandassets
 
 * **img/steam*.svg**: Steam logos, vectorized by TF2Stadium team
   member lyreix.
+
+* **img/logos/{etf2l,ugc,logstf}.{svg,png}**: Logos of other TF2
+  community sites, used for linking to their respective leagues.
 
 * **sounds/lobby-{start,readyup}.wav**: From TF2
 
