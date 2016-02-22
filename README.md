@@ -82,6 +82,10 @@ content listed at the top:
   screenshot. Contributed by TF2Stadium team member kevinispwn under
   CC-BY-NC-SA-4.0.
 
+* **video/koth_suijin.\***: Header backgrounds, a TF2 map
+  video. Contributed by TF2Stadium team member kevinispwn under
+  CC-BY-NC-SA-4.0.
+
 * **img/steam-login-small.png**: Login button for Steam, retrieved
   from: https://steamcommunity.com/dev/ which requests the use of
   their images when starting a Steam OpenID sign in.
