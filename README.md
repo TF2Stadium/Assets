@@ -90,9 +90,10 @@ content listed at the top:
   from: https://steamcommunity.com/dev/ which requests the use of
   their images when starting a Steam OpenID sign in.
 
-* **img/twitch-login.png**: Login button for Twitch, permission for
-  use is granted in the
-  [Twitch JS SDK README](https://github.com/justintv/twitch-js-sdk/blob/61ce1b94c213c43cc29f315dba64ee358a8050fe/README.md#assets).
+* **img/logo/twitch\*** and **img/twitch-login.png**: Twitch assets,
+  permission for use is explained in the
+  [Twitch JS SDK README](https://github.com/justintv/twitch-js-sdk/blob/61ce1b94c213c43cc29f315dba64ee358a8050fe/README.md#assets)
+  and their brand assets page: http://www.twitch.tv/p/brandassets
 
 * **sounds/lobby-{start,readyup}.wav**: From TF2
 
