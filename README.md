@@ -98,7 +98,7 @@ content listed at the top:
 * **img/steam*.svg**: Steam logos, vectorized by TF2Stadium team
   member lyreix.
 
-* **img/logos/{etf2l,ugc,logstf}.{svg,png}**: Logos of other TF2
+* **img/logos/{tftv,etf2l,ugc,logstf}.{svg,png}**: Logos of other TF2
   community sites, used for linking to their respective leagues.
 
 * **sounds/lobby-{start,readyup}.wav**: From TF2
