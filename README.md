@@ -1,4 +1,12 @@
-# Assets
+# Assets (DEPRECATED)
+
+These assets (and all aditional modifications or additional assets)
+have been merged back into the main
+[Frontend](github.com/tf2stadium/Frontend) repo, under the
+`src/assets` directory (where this licensing information, along with
+updates, is also reproduced).
+
+# Old README
 
 Various static assets files for the TF2Stadium website.
 
